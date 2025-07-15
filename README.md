@@ -1,4 +1,4 @@
-<h1 align="center">Hola 👋, soy Brayan Camilo Reyes</h1>
+<h1 align="center">Hola 👋, soy Brayan Reyes</h1>
 <h3 align="center">Desarrollador Web | Full Stack | Apasionado por la tecnología</h3>
 
 ---
@@ -7,7 +7,7 @@
 
 - 🔭 Actualmente trabajando en: **VisorContable**, un sistema contable visual y complementario a TNS Contable.
 - 🌱 Aprendiendo continuamente sobre arquitectura limpia, buenas prácticas y desarrollo profesional.
-- 💬 Pregúntame sobre **Angular, Node.js, React, PHP, SQL, y más...**
+- 💬 Pregúntame sobre **Angular, NodeJS, ReactJS, PHP, Mysql, Postgres, Oracle, PLSQL, Javascript, JQuery, SQL**
 - 📫 Puedes contactarme en [LinkedIn](https://www.linkedin.com/in/brayan-reyes-71ab62253)
 - ⚡ Dato curioso: Me encanta aprender tecnologías nuevas y crear soluciones digitales eficientes.
 
